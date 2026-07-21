@@ -1,0 +1,3 @@
+#!/bin/bash
+sed -i 's/val viewModel: GamificationViewModel = androidx.lifecycle.viewmodel.compose.viewModel(/val context = androidx.compose.ui.platform.LocalContext.current.applicationContext as com.example.RegainApplication\n                val viewModel: GamificationViewModel = androidx.lifecycle.viewmodel.compose.viewModel(\n                    factory = GamificationViewModel.provideFactory(context.container.usageRepository)/g' /app/applet/app/src/main/java/com/example/ui/navigation/AppNavigation.kt
+sed -i 's/factory = GamificationViewModel.provideFactory(repository)//g' /app/applet/app/src/main/java/com/example/ui/navigation/AppNavigation.kt

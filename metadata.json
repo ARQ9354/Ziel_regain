@@ -1,0 +1,6 @@
+{
+  "name": "Ziel",
+  "description": "AI Productivity Tracker that measures productive and unproductive screen time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

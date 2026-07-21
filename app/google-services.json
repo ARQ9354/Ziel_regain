@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117635898726",
+    "project_id": "ziel-e2ef9",
+    "storage_bucket": "ziel-e2ef9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117635898726:android:4b1405fd24848b2429bca7",
+        "android_client_info": {
+          "package_name": "com.aistudio.ziel.abzxc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkP0ux0skgDRph7Hvhkg3yq3h2VvXKdII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

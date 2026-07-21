@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ziel</string>
+    <string name="accessibility_service_description">Ziel uses this service to read window content in supported apps like YouTube or Chrome to determine if your activity is productive or entertaining. This data is processed locally.</string>
+</resources>
